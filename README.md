@@ -1,3 +1,3 @@
 # Fillin_Puzzles
 
-* For more details, please refer to the [specification](P1_spec.pdf). 
+* For more details, please refer to the [specification](p1_spec.pdf). 
