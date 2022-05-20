@@ -1,3 +1,4 @@
 # Fillin Puzzles
 
-* For more details, please refer to the [specification](p1_spec.pdf). 
+* [Specification](p1_spec.pdf)
+* [Prolog99](https://www.ic.unicamp.br/~meidanis/courses/mc336/2009s2/prolog/problemas/)
